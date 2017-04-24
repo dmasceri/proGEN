@@ -1,4 +1,5 @@
 proGEN - a Software Tool for the Procedural Generation of FEA Models
+
 Copyright (C) 2017 David R. Masceri Jr., Nicholas Romano
 
 This program is free software: you can redistribute it and/or modify
@@ -20,5 +21,4 @@ proGEN is an open-source framework for the procedural generation of finite eleme
 
 The proGEN project is based on the RAMPS software library for Matlab written at Drexel University by David Masceri, Nick Romano, and John Braley. The proGEN project is also based on code developed as part of the apish library for Matlab written by John Braley and John DeVitis as Rutgers University.
 
-The source code for the project may be accessed at...
-# proGEN
+The source code for the project may be accessed at <https://github.com/dmasceri/proGEN>
